@@ -1,6 +1,6 @@
 # Block List `hosts` File
 
-This `hosts` file blocks specific websites by redirecting them to `0.0.0.0` or `127.0.0.1`.
+This `hosts` file blocks specific websites by redirecting them to `0.0.0.0`.
 
 ---
 
